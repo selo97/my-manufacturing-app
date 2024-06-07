@@ -1,0 +1,1 @@
+# my-manufacturing-app
